@@ -1,0 +1,12 @@
+{
+  "indexes": [],
+  "fieldOverrides": []
+}
+{
+  "hosting": {
+    "site": "registersz",
+
+    "public": "public",
+    ...
+  }
+}
